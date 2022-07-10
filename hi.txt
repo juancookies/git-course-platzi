@@ -1,3 +1,5 @@
-hello human
+ Hello human.
+
+ I'm a regular bot.
 
 How are you?
